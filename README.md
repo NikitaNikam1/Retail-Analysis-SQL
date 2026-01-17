@@ -61,7 +61,8 @@ Tables used:
 2. Execute the SQL script in MySQL Workbench
 3. Review query outputs for insights
 
-👩‍💻 **Author:** Nikita Samadhan Nikam  
-🎓 Final Year B.E. IT | Aspiring Data Analyst  
+👩‍💻 Author: Nikita Samadhan Nikam  
+🎓 B.E. in Information Technology, Savitribai Phule Pune University (SPPU)  
+📊 Aspiring Data Analyst  
 🔗 LinkedIn: https://www.linkedin.com/in/nikita-nikam-184b39240
 
